@@ -15,7 +15,7 @@ Insecure privacy protocols : reporting data remotely is a high - risk act , and 
 User authentication not strict enough : defining and authorising users may sound like an obvious process . Consider also using the Principle of Least Privilege - where users can only access the areas required for them to complete their tasks .
 Default configuration security not tight : merely accepting the default settings could put your system at risk , as often these can be easily avoided . This covers the default configs , passwords , access levels , accounts and settings .
 
-International Standards 
+# International Standards 
 The International Electrotechnical Commission ( IEC ) in agreement with the International Society of Automation ( ISA ) published a series of standards and technical reports that define procedures for implementing secure Industrial Automation and Control Systems ( IACS ) . The standard provides guidance to those that create products , integrate systems , and operate industrial automation and control systems .
 
 • FR 1 Identification and authentication control ( IAC ) : protect the device by verifying the identity of and authenticating any user requesting access ; 
